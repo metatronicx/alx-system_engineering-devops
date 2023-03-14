@@ -1,0 +1,17 @@
+total 60
+drwxrwxr-x 2 shellking shellking 4096 Mar 14 08:25 .
+drwxrwxr-x 6 shellking shellking 4096 Mar 14 01:10 ..
+-rwxrwxr-x 1 shellking shellking   32 Mar 13 11:45 0-hello_world
+-rwxrwxr-x 1 shellking shellking   28 Mar 13 11:55 1-confused_smiley
+-rwxrwxr-x 1 shellking shellking   28 Mar 13 12:02 2-hellofile
+-rwxrwxr-x 1 shellking shellking   39 Mar 13 14:00 3-twofiles
+-rwxrwxr-x 1 shellking shellking   35 Mar 13 13:58 4-lastlines
+-rwxrwxr-x 1 shellking shellking   33 Mar 13 14:05 5-firstlines
+-rwxrwxr-x 1 shellking shellking   40 Mar 13 14:35 6-third_line
+-rwxrwxr-x 1 shellking shellking   59 Mar 14 08:18 7-file
+-rwxrwxr-x 1 shellking shellking   36 Mar 14 08:24 8-cwd_state
+-rw-rw-r-- 1 shellking shellking   39 Mar 14 01:17 "\*\'Best
+-rw-rw-r-- 1 shellking shellking   39 Mar 14 01:13 '\*\'Best
+-rw-rw-r-- 1 shellking shellking   76 Mar 14 01:14 \*\'Best
+-rw-rw-r-- 1 shellking shellking    0 Mar 14 08:25 ls_cwd_content
+-rw-rw-r-- 1 shellking shellking   12 Mar 13 11:44 README.md
