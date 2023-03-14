@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -r | tail -n 11
+ls -tr | tail -10 | sort -r
