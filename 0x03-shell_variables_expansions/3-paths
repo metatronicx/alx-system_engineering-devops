@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(tr -dc ':' <<< "$PATH" | awk '{print length}')
+printf $(tr -dc ':' <<< "$PATH") | wc
