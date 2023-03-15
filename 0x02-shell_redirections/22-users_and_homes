@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -oE '^[^:]+|(/[^:]+){0,1}$' /etc/passwd | sed 'N;s/\n/:/'
+grep -oE '^[^:]+|(/[^:]+){0,1}$' /etc/passwd | sed 'N;s/\n/:/' | sort -k1
